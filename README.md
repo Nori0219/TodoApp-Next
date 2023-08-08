@@ -6,6 +6,7 @@ First, run the development server:
 
 ```bash
 npm run dev
+npm run json-server
 # or
 yarn dev
 # or
